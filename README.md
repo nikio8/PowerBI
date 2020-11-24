@@ -15,6 +15,6 @@ GFITW\
 Rob Collie, Avichal Singh, "Power Pivot and Power BI, The Excel User's Guide to DAX, Power Query, Power BI & Power Pivot in Excel 2010-2016"\
 -Combine entire folder of files into one\
 -Use runing total custom formula\
----the best part of DAX formulas is if we write them, we can use them even if other columns are not visible unlike excell\
+---the best part of DAX measures is, if we write them, we can use them even if other columns are not visible unlike ordinary pivot tables\
 ---using All and Allslected\
 -pq runing total is a table within table, we cannot define range in a table as in excel sheet A1:B20
